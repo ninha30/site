@@ -1,0 +1,30 @@
+    cor :  var ( -verde );
+    transformação de texto : maiúscula;
+}
+
+. contador {
+    tamanho da fonte :  20 px ;
+    exibição : flexível;
+    justificar-conteúdo : centro;
+    flex-wrap : embrulhar;
+}
+. contador-dígito {
+    preenchimento :  0  16 px ;
+    alinhamento de texto : centro;
+    largura mínima :  100 px ;
+}
+
+. contador-dígito-número {
+    tamanho da fonte :  80 px ;
+    margem :  0 ;
+
+}
+
+. contador-dígito-texto {
+    cor :  var ( -verde );
+    tamanho da fonte :  20 px ;
+    margem :  0 ;
+
+}
+
+@media screen e ( largura mínima :  768 px ) {
